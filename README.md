@@ -2,7 +2,7 @@
 ## A passionate Web Developer of pakistan    
 
 <p align="center">
-  <img width="120" alt="Gemini_Generated_Image_1r4jat1r4jat1r4j" src="https://github.com/user-attachments/assets/2f6749f2-8c9c-43c9-965c-42bc67a0b9d6" />
+  <img width="120" height = "160" alt="Gemini_Generated_Image_1r4jat1r4jat1r4j" src="https://github.com/user-attachments/assets/2f6749f2-8c9c-43c9-965c-42bc67a0b9d6" />
 </p>
 
 🌸 **Web & App Development Student**
