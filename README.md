@@ -1,7 +1,7 @@
 # Hi 👋, I’m Khola
 
 <p align="center">
-  <<img width="600" height="700" alt="Gemini_Generated_Image_1r4jat1r4jat1r4j" src="https://github.com/user-attachments/assets/2f6749f2-8c9c-43c9-965c-42bc67a0b9d6" />
+  <<img width="120" alt="Gemini_Generated_Image_1r4jat1r4jat1r4j" src="https://github.com/user-attachments/assets/2f6749f2-8c9c-43c9-965c-42bc67a0b9d6" />
 </p>
 
 🌸 **Web & App Development Student**
@@ -67,6 +67,10 @@
   <a href="https://www.facebook.com/khola.azeem/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+  <a href="https://x.com/KholaAzeem" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
 </p>
 
 ---
