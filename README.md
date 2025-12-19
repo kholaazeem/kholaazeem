@@ -1,4 +1,3 @@
-<img width="100" height="50" alt="Gemini_Generated_Image_xxcz02xxcz02xxcz" src="https://github.com/user-attachments/assets/2a000582-fa7f-4dae-934e-fff8a9e4edcb" />
 # Hi 👋, I’m Khola
 ## A passionate Web Developer of pakistan    
 
