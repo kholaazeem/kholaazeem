@@ -7,51 +7,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kholaazeem&color=blue)
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kholaazeem&show_icons=true&theme=radical)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kholaazeem&layout=compact&theme=radical)
+
 🌸 **Web & App Development Student**
 🌱 Currently learning **Modern Web Development**
 💻 Working with **HTML, CSS, JavaScript & Supabase**
 ⚛️ **React** coming next
-
----
-
-## 👩‍💻 About Me
-
-* 🎓 Student of **Modern Web & App Development**
-* 🌱 Currently learning **MERN Stack Development**
-* 🤖 Exploring **Agentic AI** concepts
-* 🧠 Learning **Backend Development** step by step
-* 🐍 Practicing **Python** for programming & logic building
-* 🗄️ Working with **Supabase** for backend & authentication
-* ⚛️ **React** coming next in my learning journey
-* 🎯 Goal: Become a confident **Full‑Stack Developer**
-
----
-
-## 🚀 Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-* JavaScript Logic Building
-* DOM Manipulation
-* Git & GitHub Workflow
-
----
-
-## 📌 What I’m Working On
-
-* Frontend UI practice pages
-* JavaScript mini projects
-* Improving problem-solving skills
 
 ---
 
@@ -77,6 +42,47 @@
 </p>
 
 ---
+## 🚀 Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+* 🎓 Student of **Modern Web & App Development**
+* 🌱 Currently learning **MERN Stack Development**
+* 🤖 Exploring **Agentic AI** concepts
+* 🧠 Learning **Backend Development** step by step
+* 🐍 Practicing **Python** for programming & logic building
+* 🗄️ Working with **Supabase** for backend & authentication
+* ⚛️ **React** coming next in my learning journey
+* 🎯 Goal: Become a confident **Full‑Stack Developer**
+
+---
+
+
+## 🌱 Currently Learning
+
+* JavaScript Logic Building
+* DOM Manipulation
+* Git & GitHub Workflow
+
+---
+
+## 📌 What I’m Working On
+
+* Frontend UI practice pages
+* JavaScript mini projects
+* Improving problem-solving skills
+
+
 
 ## ✨ Personal Note
 
