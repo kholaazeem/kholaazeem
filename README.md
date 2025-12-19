@@ -1,7 +1,7 @@
 # Hi 👋, I’m Khola
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" width="120" alt="developer" />
+  <<img width="864" height="1184" alt="Gemini_Generated_Image_1r4jat1r4jat1r4j" src="https://github.com/user-attachments/assets/2f6749f2-8c9c-43c9-965c-42bc67a0b9d6" />
 </p>
 
 🌸 **Web & App Development Student**
@@ -58,13 +58,13 @@
   <a href="https://github.com/kholaazeem" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/khola-azeem-501786363/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com" target="_blank">
+  <a href="https://www.instagram.com/kholaa_azeem" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com" target="_blank">
+  <a href="https://www.facebook.com/khola.azeem/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
@@ -77,5 +77,6 @@
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile!*
+⭐ *Than
+k you for visiting my GitHub profile!*
 
