@@ -1,5 +1,5 @@
 # Hi there, I'm Khola Azeem 👋
-### 💻 Web Developer | AI Enthusiast | Open Source Contributor
+### 💻 Web Developer | AI Enthusiast | Building in public
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2f6749f2-8c9c-43c9-965c-42bc67a0b9d6" width="150" style="border-radius: 50%;" alt="Khola Azeem Avatar" />
