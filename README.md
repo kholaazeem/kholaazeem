@@ -1,101 +1,66 @@
-# Hi 👋, I'm Khola Azeem
-## A Passionate Web Developer
+# Hi there, I'm Khola Azeem 👋
+### 💻 Web Developer | AI Enthusiast | Open Source Contributor
 
-
-
-  <img width="120" height = "160" alt="Gemini_Generated_Image_1r4jat1r4jat1r4j" src="https://github.com/user-attachments/assets/2f6749f2-8c9c-43c9-965c-42bc67a0b9d6" />
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=kholaazeem&color=blue)
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kholaazeem&show_icons=true&theme=radical)
-
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kholaazeem&layout=compact&theme=radical)
-
-🌸 **Web & App Development Student**
-🌱 Currently learning **Modern Web Development**
-💻 Working with **HTML, CSS, JavaScript & Supabase**
-⚛️ **React** coming next
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/kholaazeem" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2f6749f2-8c9c-43c9-965c-42bc67a0b9d6" width="150" style="border-radius: 50%;" alt="Khola Azeem Avatar" />
+  <br/>
+  <br/>
+  
   <a href="https://www.linkedin.com/in/khola-azeem-501786363/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/kholaa_azeem" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/khola.azeem/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://github.com/kholaazeem" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://x.com/KholaAzeem" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-</p>
-
----
-## 🚀 Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" />
-</p>
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 Student of **Modern Web & App Development**
-* 🌱 Currently learning **MERN Stack Development**
-* 🤖 Exploring **Agentic AI** concepts
-* 🧠 Learning **Backend Development** step by step
-* 🐍 Practicing **Python** for programming & logic building
-* 🗄️ Working with **Supabase** for backend & authentication
-* ⚛️ **React** coming next in my learning journey
-* 🎯 Goal: Become a confident **Full‑Stack Developer**
+I am a passionate **Frontend Developer** on a journey to becoming a **Full-Stack Engineer**. My focus is on building interactive, responsive web applications using modern technologies. 
+
+Currently, I am bridging the gap between **Classic Web Development** and **Agentic AI**, exploring how AI agents can optimize workflows.
+
+* 🔭 **I’m currently working on:** Interactive UI Projects & JavaScript Logic
+* 🌱 **I’m currently learning:** React.js Ecosystem & Supabase Backend
+* 🤖 **I’m exploring:** Agentic AI & Python for Automation
+* ⚡ **Fun fact:** I love turning complex logic into clean code!
 
 ---
 
+## 🛠️ Tech Stack & Tools
 
-## 🌱 Currently Learning
+<div align="center">
 
-* JavaScript Logic Building
-* DOM Manipulation
-* Git & GitHub Workflow
+| Frontend | Backend & Database | Languages | Tools |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /> | <img src="https://skillicons.dev/icons?i=supabase" /> | <img src="https://skillicons.dev/icons?i=js,python" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
 
----
-
-## 📌 What I’m Working On
-
-* Frontend UI practice pages
-* JavaScript mini projects
-* Improving problem-solving skills
-
-
-
-## ✨ Personal Note
-
-> Trust your uniqueness 🌸
+</div>
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile!*
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kholaazeem&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Khola's Github Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kholaazeem&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
+</div>
 
+---
 
+## 📌 Latest Work & Focus
 
+> *"Trust your uniqueness & keep building."* 🌸
 
+I am actively sharpening my **Problem Solving** skills through JavaScript mini-projects and preparing to deep dive into the **MERN Stack**.
 
-
+---
+<div align="center">
+  <sub>Visitor Count</sub><br>
+  <img src="https://komarev.com/ghpvc/?username=kholaazeem&color=blueviolet" alt="Profile Views" />
+</div>
