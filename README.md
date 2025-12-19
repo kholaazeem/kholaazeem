@@ -5,17 +5,22 @@
 </p>
 
 🌸 **Web & App Development Student**
-🌱 Currently learning **Frontend Development**
-💻 Focused on **HTML, CSS & JavaScript**
+🌱 Currently learning **Modern Web Development**
+💻 Working with **HTML, CSS, JavaScript & Supabase**
+⚛️ **React** coming next
 
 ---
 
 ## 👩‍💻 About Me
 
 * 🎓 Student of **Modern Web & App Development**
-* 📚 Learning step by step with consistency
-* 🛠️ Building small frontend projects to improve logic
-* 🎯 Goal: Become a confident **Frontend Developer**
+* 🌱 Currently learning **MERN Stack Development**
+* 🤖 Exploring **Agentic AI** concepts
+* 🧠 Learning **Backend Development** step by step
+* 🐍 Practicing **Python** for programming & logic building
+* 🗄️ Working with **Supabase** for backend & authentication
+* ⚛️ **React** coming next in my learning journey
+* 🎯 Goal: Become a confident **Full‑Stack Developer**
 
 ---
 
@@ -52,6 +57,15 @@
 <p align="left">
   <a href="https://github.com/kholaazeem" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
