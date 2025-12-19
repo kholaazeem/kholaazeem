@@ -1,4 +1,3 @@
-
 # Hi 👋, I’m Khola
 
 <p align="center">
@@ -65,3 +64,4 @@
 ---
 
 ⭐ *Thank you for visiting my GitHub profile!*
+
